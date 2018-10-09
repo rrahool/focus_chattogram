@@ -6,13 +6,13 @@
 		<div class="main">
 			<div class="slider_wrapper">
 				<div id="camera_wrap" class="">
-					<div data-src="images/slider/1.jpg">
+					<div data-src="images/slider/slider_1.jpg">
 						
 					</div>
-					<div data-src="images/slider/2.jpg">
+					<div data-src="images/slider/slider_2.jpg">
 						
 					</div>
-					<div data-src="images/slider/3.jpg">
+					<div data-src="images/slider/slider_3.jpg">
 						
 					</div>
 				</div>
@@ -23,7 +23,7 @@
 				<div class="row">
 
 					<div id="ad-1" class="col-md-2" style="background-color:white; height: 500px;">
-							<p>Lorem ipsum...</p>
+							<p>Advertisement Section 1</p>
 					</div>
 					
 					<div class="col-md-8">
@@ -40,8 +40,8 @@
 												<div class="grid_3">
 													<a href="blog_image.php">
 														<div class="gal_item">
-															<img src="images/page1_img1.jpg" alt="">
-															<div class="gal_caption">জাতীয় ঐক্যে জিরো প্লাস জিরো ইকুয়েল টু জিরো জিরো জিরো</div>
+															<img src="images/photo/cat_1.jpg" alt="">
+															<div class="gal_caption">পর্যটন ক্যাটাগরি</div>
 															<span class="gal_magnify"></span>
 														</div>
 													</a>
@@ -49,8 +49,8 @@
 												<div class="grid_3">
 													<a href="blog_image.php">
 														<div class="gal_item">
-															<img src="images/page1_img2.jpg" alt="">
-															<div class="gal_caption">জাতীয় ঐক্যে জিরো প্লাস জিরো ইকুয়েল টু জিরো জিরো জিরো</div>
+															<img src="images/photo/cat_2.jpg" alt="">
+															<div class="gal_caption">ফটো ফিচার ক্যাটাগরি</div>
 															<span class="gal_magnify"></span>
 														</div>
 													</a>
@@ -58,8 +58,8 @@
 												<div class="grid_3">
 													<a href="blog_image.php">
 														<div class="gal_item">
-															<img src="images/page1_img3.jpg" alt="">
-															<div class="gal_caption">জাতীয় ঐক্যে জিরো প্লাস জিরো ইকুয়েল টু জিরো জিরো জিরো</div>
+															<img src="images/photo/cat_3.jpg" alt="">
+															<div class="gal_caption">ব্যবসা বানিজ্য ক্যাটাগরি</div>
 															<span class="gal_magnify"></span>
 														</div>
 													</a>
@@ -67,8 +67,8 @@
 												<div class="grid_3">
 													<a href="blog_image.php">
 														<div class="gal_item">
-															<img src="images/page1_img4.jpg" alt="">
-															<div class="gal_caption">জাতীয় ঐক্যে জিরো প্লাস জিরো ইকুয়েল টু জিরো জিরো জিরো</div>
+															<img src="images/photo/cat_4.jpg" alt="">
+															<div class="gal_caption">ভিডিও গ্যালারী</div>
 															<span class="gal_magnify"></span>
 														</div>
 													</a>
@@ -76,8 +76,8 @@
 												<div class="grid_3">
 													<a href="blog_image.php">
 														<div class="gal_item">
-															<img src="images/page1_img5.jpg" alt="">
-															<div class="gal_caption">জাতীয় ঐক্যে জিরো প্লাস জিরো ইকুয়েল টু জিরো জিরো জিরো</div>
+															<img src="images/photo/cat_5.jpg" alt="">
+															<div class="gal_caption">শিল্প ও সংস্কৃতি ক্যাটাগরি</div>
 															<span class="gal_magnify"></span>
 														</div>
 													</a>
@@ -85,8 +85,8 @@
 												<div class="grid_3">
 													<a href="blog_image.php">
 														<div class="gal_item">
-															<img src="images/page1_img6.jpg" alt="">
-															<div class="gal_caption">জাতীয় ঐক্যে জিরো প্লাস জিরো ইকুয়েল টু জিরো জিরো জিরো</div>
+															<img src="images/photo/cat_6.jpg" alt="">
+															<div class="gal_caption">সাম্প্রতিক ছবি ক্যাটাগরি</div>
 															<span class="gal_magnify"></span>
 														</div>
 													</a>
@@ -100,7 +100,7 @@
 					</div>
 
 					<div id="ad-2" class="col-md-2" style="background-color:white; height: 500px;">
-							<p>Lorem ipsum...</p>
+							<p>Advertisement Section 2</p>
 					</div>
 
 				</div>

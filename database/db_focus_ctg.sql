@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 06, 2018 at 09:10 AM
+-- Generation Time: Oct 09, 2018 at 09:07 AM
 -- Server version: 5.6.16
 -- PHP Version: 5.5.11
 
@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `tbl_menus` (
   PRIMARY KEY (`id`),
   KEY `menu_id` (`menu_id`),
   KEY `menu_id_2` (`menu_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=5 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=8 ;
 
 --
 -- Dumping data for table `tbl_menus`
@@ -44,7 +44,10 @@ INSERT INTO `tbl_menus` (`id`, `title`, `menu_id`, `page`) VALUES
 (1, 'Test 1', NULL, 'test1.php'),
 (2, 'Test 2', NULL, 'test2.php'),
 (3, 'Test 3', NULL, 'test3.php'),
-(4, 'Test 4', 2, 'test4.php');
+(4, 'Test 4', 2, 'test4.php'),
+(5, 'Test 5', 2, 'test5.php'),
+(6, 'Test 7', 1, 'test7.php'),
+(7, 'Test 9', NULL, 'test9.php');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

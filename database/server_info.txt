@@ -1,0 +1,3 @@
+db name:	focuscha_db_focus_ctg
+username:	focuscha_db_user
+pass:		rRrnzEl)=U+g

@@ -16,11 +16,11 @@
 						<div class="clear"></div>
 						<div class="grid_5">
 							<h3>Contact Us</h3>
-							<p>24/7 support is on for all <span class="color1"><a href="http://www.templatemonster.com/website-templates.php" rel="nofollow">premium designs</a></span> of TemplateMonster. Free templates go without it.</p>
-							<p>Need help in customization? Ask guys from <span class="color1"><a href="http://www.templatetuning.com/" rel="nofollow">TemplateTuning</a></span>.</p>
+							<p>Get our supports for <span class="color1"><a href="#" rel="nofollow">premium designs</a></span> of Websites.</p>
+							<p>Need help in customization? Ask guys from <span class="color1"><a href="#" rel="nofollow">ChandrimSoft</a></span>.</p>
 							The Company Name Inc. <br>
-							9870 St Vincent Place,<br>
-							Glasgow, DC 45 Fr 45.<br>
+							Paragon City, CPDL, Andorkilla<br>
+							Chattogram, Bangladesh.<br>
 							Telephone: +1 800 603 6035<br>
 							FAX: +1 800 889 9898<br>
 							E-mail: <a href="#">mail@demolink.org</a>

@@ -1,7 +1,7 @@
 <?php
 
 	require_once 'database/db.php';
-	get_menus();
+	//echo display_menu();
 
 ?>
 
@@ -101,9 +101,9 @@
 
 				echo '<i class="fas fa-calendar-alt"></i> ';
 
-				echo date("D d M Y , ");
+				echo date("D d M Y ");
 
-				echo $Bdate." বঙ্গাব্দ";
+				// echo $Bdate." বঙ্গাব্দ";
 
 				//echo $Hdate." হিজরি";
 
@@ -167,7 +167,7 @@
 										<li><a href="index.php">Home</a></li>
 										<li>
 											<div class="dropdown">
-												<a href="images.php">
+												<a href="#">
 													Images
 													<div class="dropdown-content">
 														<a href="/category/category_1.php">Category 1</a>
@@ -181,7 +181,7 @@
 												</a>
 											</div>
 										</li>
-										<li><a href="photographers.php">Photographers</a></li>
+										<li><a href="blog_image.php">Photographers</a></li>
 										<li><a href="contact_us.php">Contact Us</a></li>
 									</ul>
 								</nav>
