@@ -199,7 +199,7 @@ table {
   width: 370px;
 }
 .grid_3 {
-  width: 270px;
+  width: 320px;
 }
 .grid_2 {
   width: 170px;
@@ -274,7 +274,7 @@ table {
   [class*="grid_"] {
     float: left;
     min-height: 1px;
-    margin-left: 20px;
+    margin-left: 10px;
   }
   .container {
     width: 940px;
@@ -307,7 +307,7 @@ table {
     width: 300px;
   }
   .grid_3 {
-    width: 220px;
+    width: 260px;
   }
   .grid_2 {
     width: 140px;
@@ -402,7 +402,7 @@ table {
     width: 236px;
   }
   .grid_3 {
-    width: 172px;
+    width: 222px;
   }
   .grid_2 {
     width: 108px;

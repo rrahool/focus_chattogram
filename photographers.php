@@ -1,5 +1,5 @@
 <!--==============================header=================================-->
-<?php include 'inc\header.php'?>
+<?php include 'inc/header.php'?>
 
 		<div class="main">
 <!--=====================Content======================-->
@@ -230,4 +230,4 @@
 		</div>
 
 <!--==============================footer=================================-->
-<?php include 'inc\footer.php'?>
+<?php include 'inc/footer.php'?>

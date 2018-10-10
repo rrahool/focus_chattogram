@@ -9,6 +9,7 @@
 <html lang="en">
 	<head>
 		<title>Home</title>
+		<?php require 'page_title.php'; ?>
 		<meta charset="utf-8">
 		<meta name="format-detection" content="telephone=no">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -101,7 +102,7 @@
 
 				echo '<i class="fas fa-calendar-alt"></i> ';
 
-				echo date("D d M Y ");
+				echo date(" D - M d, Y ");
 
 				// echo $Bdate." বঙ্গাব্দ";
 
@@ -170,13 +171,12 @@
 												<a href="#">
 													Images
 													<div class="dropdown-content">
-														<a href="/category/category_1.php">Category 1</a>
-														<a href="/category/category_2.php">Category 2</a>
-														<a href="/category/category_3.php">Category 3</a>
-														<a href="/category/category_4.php">Category 4</a>
-														<a href="/category/category_5.php">Category 5</a>
-														<a href="/category/category_6.php">Category 6</a>
-
+														<a href="/category/cat_1.php">পর্যটন</a>
+														<a href="/category/cat_2.php">ফটো ফিচার</a>
+														<a href="/category/cat_3.php">ব্যবসা বানিজ্য</a>
+														<a href="/category/cat_4.php">ঐতিহ্য</a>
+														<a href="/category/cat_5.php">শিল্প ও সংস্কৃতি</a>
+														<a href="/category/cat_6.php">সাম্প্রতিক ছবি</a>
 													</div>
 												</a>
 											</div>

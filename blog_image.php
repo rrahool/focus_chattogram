@@ -1,5 +1,9 @@
 <!--==============================header=================================-->
-<?php include 'inc\header.php'?>
+<?php include 'inc/header.php';
+
+ch_title("Blog Image");
+
+?>
 
 		<div class="main">
 <!--=====================Content======================-->
@@ -164,4 +168,4 @@
 		</div>
 
 <!--==============================footer=================================-->
-<?php include 'inc\footer.php'?>
+<?php include 'inc/footer.php'?>

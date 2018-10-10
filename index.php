@@ -1,5 +1,9 @@
 <!--==============================header=================================-->
-<?php include 'inc\header.php'?>
+<?php include 'inc/header.php'; 
+
+ch_title("Index Page");
+
+?>
 
 <!--==============================Main=================================-->
 
@@ -19,7 +23,8 @@
 			</div>
 
 <!--=====================Image Gallery======================-->
-<h2></h2>
+<h2>ক্যাটাগরি</h2>
+<br><br>
 				<div class="row">
 
 					<div id="ad-1" class="col-md-2" style="background-color:white; height: 500px;">
@@ -68,7 +73,7 @@
 													<a href="blog_image.php">
 														<div class="gal_item">
 															<img src="images/photo/cat_4.jpg" alt="">
-															<div class="gal_caption">ভিডিও গ্যালারী</div>
+															<div class="gal_caption">ঐতিহ্য ক্যাটাগরি</div>
 															<span class="gal_magnify"></span>
 														</div>
 													</a>
@@ -190,7 +195,7 @@
 					<div class="gallery gall__1">
 
 						<div class="row">
-								<h2>Video</h2>
+								<h2>ভিডিও গ্যালারী</h2>
 
 							<div class="clear"></div>
 
@@ -200,7 +205,7 @@
 
 							<div class="col-md-8">
 								<div class="embed-responsive embed-responsive-16by9">
-									<iframe src="https://www.youtube.com/embed/5WhTSYgp1f8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+									<iframe width="560" height="315" src="https://www.youtube.com/embed/SOb8dsaUnzw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 								</div>
 							</div>
 
@@ -286,4 +291,4 @@
 		</div>
 
 <!--==============================footer=================================-->
-<?php include 'inc\footer.php'?>
+<?php include 'inc/footer.php'?>

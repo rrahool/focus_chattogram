@@ -1,5 +1,9 @@
 <!--==============================header=================================-->
-<?php include 'inc\header.php'?>
+<?php include 'inc/header.php';
+
+ch_title("Contact Us");
+
+?>
 
 		<div class="main">
 <!--=====================Content======================-->
@@ -87,4 +91,4 @@
 		</div>
 		
 <!--==============================footer=================================-->
-<?php include 'inc\footer.php'?>
+<?php include 'inc/footer.php'?>
